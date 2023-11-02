@@ -11,3 +11,5 @@ Please note: the only functionality working on this website besides the design i
 ## Screenshots
 
 Here are some screeenshots of the application showcasing the Booking functionality.
+
+<img src="https://i.ibb.co/fS10PFY/Screenshot-2023-11-02-at-9-00-17-PM.png" width="400" /> <img src="https://i.ibb.co/k3KkLCB/Screenshot-2023-11-02-at-9-00-00-PM.png" width="400" />
