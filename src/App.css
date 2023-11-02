@@ -123,11 +123,7 @@ footer img {
   height:300px;
 }
 
-form {
-  display: grid;
-  max-width: 200px;
-  gap: 20px;
-}
+
 
 @media (max-width: 700px) {
   header section, footer section {
@@ -146,4 +142,43 @@ header section {
   display:grid;
   justify-items: center;
 }
+}
+#form{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input, select{
+    background-color: #f4f4f4;
+      border: 1px solid #ccc;
+      color: #333;
+      border-radius: 5px;
+      margin: 5px 0px;
+      padding: 10px;
+      border-radius: 5px;
+}
+label{
+  font-size: 12px;
+  display: block;
+  margin-top: 10px;
+  font-weight: bold;
+}
+input[type="submit"]{
+  background-color:#f4ce15;
+  padding: 15px 30px;
+  font-weight: 800;
+  color: #023323;
+  margin-top: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+button:hover ,input[type="submit"]:hover{
+  background-color: #e1bd0d;
+
+}
+.text-center{
+  text-align: center;
 }
